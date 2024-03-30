@@ -17,3 +17,13 @@ The Report has **4 Dashboard** and **1 recommendation page**
 <h1 align="center">Demographic Insight</h1>
 
 ![deinsi](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/376cc56f-fc54-4298-bd3c-79eac5277129)
+
+<h1 align="center">Financial Demographics Insights</h1>
+
+![demfinins](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/78183fe8-1993-41b6-a724-cc006de126a8)
+
+<h1 align="center">Income Utilization Insights</h1>
+
+
+
+
