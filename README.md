@@ -1,9 +1,9 @@
 <h2>Mitron Bank</h2>
-Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of **credit cards**, aiming to broaden its product offerings and reach in the financial market.
+Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of <b>credit cards</b>, aiming to broaden its product offerings and reach in the financial market.
 
 They provided a sample dataset of 4000 customers across five cities on their online spend and other details.
 
-<h1>Project</h1>
+<h1 align="center">Project</h1>
 
 The Report has **4 Dashboard** and **1 recommendation page**
 
@@ -12,5 +12,8 @@ The Report has **4 Dashboard** and **1 recommendation page**
 ![spin](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/c89e8685-2e64-4a9b-833e-b394968353da)
 ![keins](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/e804077b-f97b-40a4-b8c9-3cfacde7ac7b)
 ![recc](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/eb8a1ded-6f7d-4d01-bf24-d1a8eafb4973)
+----
 
+<h1 align="center">Demographic Insight</h1>
 
+![deinsi](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/376cc56f-fc54-4298-bd3c-79eac5277129)
