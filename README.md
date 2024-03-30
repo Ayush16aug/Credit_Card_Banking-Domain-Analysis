@@ -24,6 +24,25 @@ The Report has **4 Dashboard** and **1 recommendation page**
 
 <h1 align="center">Income Utilization Insights</h1>
 
+![incutiliins](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/079a233f-6e8b-4f56-86e7-9b50992d1fdd)
 
+<h1 align="center">Spending Insights</h1>
 
+![spninsi](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/2b463c08-6b1d-47bb-98fd-eea02ae5611d)
+
+<h1 align="center">Key Insights</h1>
+<h3 align="center">Insights For Credit Card Usage</h3>
+
+![crediinsi](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/4600ae67-c2e3-45a2-aecf-2c39fbfef43d)
+
+<h1 align="center">Key Findings</h1>
+<h3>1. Top 3 categories where most of the customers spend money are:</h3>
+1.Bills – 19.76% <br>
+2.Groceries – 16.26<br>
+3.Electronics – 14.99%</br>
+<br>
+<b>More</b> than <b>50%</b> of the total <b>monthly spend</b> is spent on these 3 categories./br>
+</br
+2. <h3>Payment method</h3> where the <h3>highest</h3> amount of <h3>monthly income</h3> is spent is <h3>Credit Card</h3>
+40.7% of total spend is done using credit card. Which is a good sign. It tells how customers are happy to use the credit cards for most of their spendings.
 
