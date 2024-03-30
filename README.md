@@ -1,5 +1,5 @@
 <h2>Mitron Bank</h2>
-Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of <b>credit cards</b>, aiming to broaden its product offerings and reach in the financial market.
+Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of **credit cards**, aiming to broaden its product offerings and reach in the financial market.
 
 They provided a sample dataset of 4000 customers across five cities on their online spend and other details.
 
