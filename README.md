@@ -63,14 +63,9 @@ They spend <b>51.04%</b> of their monthly income.<br>
 ![cashback](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/5408e33b-5d7b-494d-aaca-01d382fb660b)<br>
 ![discountcard](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/110acdf6-01a4-440a-a365-548b86ab0321)<br>
 <br>
-<b>Diner’s Club Cards</b> are premium products and so they can be offered to specific salary window customers.<br>
+![dinncard](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/36469869-3cd0-4b5a-b6f9-cd9b63dc95ec)<br>
 <br>
-These cards shall come up with special access to leisure activities.<br>
-<br>
-EX: Airport Lounges, Five Star Hotels Health and Fitness facilities, Occasional Air ticket upgrades, Free chauffer service to and from Airports etc.<br>
-<br>
-These cards are sometimes kept as to show off and doesn’t really depends on discounts but on luxury services.<br>
-<br>
+
 <b>Apparel, Entertainment and Food</b> have the lowest average transaction amounts and overall spend. (Choose partners who are recently launching their IPOs)
 
 Travel offers can also be pushed as after the Covid this sector is on its peak again. (High prices of Air Tickets and Indian local travel economy is boosted as well since the launch of new Trains, Airports, Hotels and Infrastructure.
