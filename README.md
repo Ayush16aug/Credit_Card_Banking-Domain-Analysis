@@ -39,10 +39,43 @@ The Report has **4 Dashboard** and **1 recommendation page**
 <h3>1. Top 3 categories where most of the customers spend money are:</h3>
 1.Bills – 19.76% <br>
 2.Groceries – 16.26<br>
-3.Electronics – 14.99%</br>
+3.Electronics – 14.99%<br>
 <br>
-<b>More</b> than <b>50%</b> of the total <b>monthly spend</b> is spent on these 3 categories./br>
-</br
-2. <h3>Payment method</h3> where the <h3>highest</h3> amount of <h3>monthly income</h3> is spent is <h3>Credit Card</h3>
-40.7% of total spend is done using credit card. Which is a good sign. It tells how customers are happy to use the credit cards for most of their spendings.
+<b>More</b> than <b>50%</b> of the total <b>monthly spend</b> is spent on these 3 categories.<br>
+</br>
+<b>2. Payment method</b> where the <b>highest</b> amount of <b>monthly income</b> is spent is <b>Credit Card.</b><br>
+<br>
+40.7% of total spend is done using credit card. Which is a good sign. It tells how customers are happy to use the credit cards for most of their spendings.<br>
+<br>
+<b>3. Age group 25-34</b> spend <b>46.6%<b> of <b>monthly spend</b> using <b>Credit Card.</b><br>
+<br>
+4. Average spend per transaction on credit card is ₹1001.4.<br>
+<br>
+<b>5. Salaried IT Employees</b> are the <b>highest</b> income <b>spenders<b> among other working professionals.<br>
+<br>
+They spend <b>51.04%</b> of their monthly income.<br>
+  <br>
+  <br>
+<b>6. September</b> is the <b> highest income</b>  spending month.<br>
+<br>
+<h1 align="center">Recommendation</h1>
+
+![cashback](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/5408e33b-5d7b-494d-aaca-01d382fb660b)<br>
+![discountcard](https://github.com/Ayush16aug/Credit_Card_Banking-Domain-Analysis/assets/131275647/110acdf6-01a4-440a-a365-548b86ab0321)<br>
+<br>
+<b>Diner’s Club Cards</b> are premium products and so they can be offered to specific salary window customers.<br>
+<br>
+These cards shall come up with special access to leisure activities.<br>
+<br>
+EX: Airport Lounges, Five Star Hotels Health and Fitness facilities, Occasional Air ticket upgrades, Free chauffer service to and from Airports etc.<br>
+<br>
+These cards are sometimes kept as to show off and doesn’t really depends on discounts but on luxury services.<br>
+<br>
+<b>Apparel, Entertainment and Food</b> have the lowest average transaction amounts and overall spend. (Choose partners who are recently launching their IPOs)
+
+Travel offers can also be pushed as after the Covid this sector is on its peak again. (High prices of Air Tickets and Indian local travel economy is boosted as well since the launch of new Trains, Airports, Hotels and Infrastructure.
+
+<b>Note: Transaction Ids could have helped in better understanding how many times the credit card is used over other payment methods. Currently all the customers have 216 total transactions and 54 transaction using each platform.</b>
+
+
 
